@@ -1460,9 +1460,6 @@
 "@modules/fingerprint-authentication@file:./modules/fingerprint-authentication":
   version "1.0.0"
 
-"@modules/fingerprint-authentication@file:./modules/fingerprint-authentication/":
-  version "1.0.0"
-
 "@modules/onboarding@file:./modules/onboarding":
   version "1.0.0"
   dependencies:
