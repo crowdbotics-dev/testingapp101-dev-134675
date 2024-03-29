@@ -64,6 +64,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-onboarding](modules/onboarding)
 - [django-fleet-equipment-management](backend/modules)
 - [react-native-social-login](modules/social-login)
+- [react-native-user-profile](modules/user-profile)
 
 # Getting started: Frontend
 
